@@ -1,0 +1,9 @@
+{
+	"apps" : [{
+		"script" : "./bin/www",				
+		"name" : "h5cs-staging",					
+		"pid_file"  : "pm2/staging.pid",
+		"error_file" : "pm2/staging-err.log",
+		"out_file" : "pm2/staging-out.log",
+	}]
+}

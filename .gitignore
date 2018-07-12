@@ -1,0 +1,13 @@
+/.idea/
+.idea/*
+.git
+.project
+/static/js
+/empolder/static
+/lib/error.txt
+./npm-debug.log
+npm-debug.log
+dump.rdb
+pm2/
+node_modules/
+
